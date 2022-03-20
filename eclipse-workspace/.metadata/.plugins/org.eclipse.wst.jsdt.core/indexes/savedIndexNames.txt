@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/sohailkhalid/Development/training/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2197807537.index
+878436300.index
+52352076.index
+2385676095.index
+2577812090.index
+3828799786.index
